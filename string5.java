@@ -1,5 +1,5 @@
 package String;
-// accesiing the character from a string
+// accessing the character from a string
 public class string5 {
     public static void print(String full_name){
         for(int i=0;i<=full_name.length()-1;i++){
