@@ -1,6 +1,7 @@
 package String;
 
 public class string1 {
+    // String are IMMUTABLE --> ones created cannot be change
     public static void main(String args[]){
         // two methot to create a String4
         String srt =("abcd");
