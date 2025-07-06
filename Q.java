@@ -1,6 +1,6 @@
 package String;
 
-public class str {
+public class Q {
     public static void main(String args[]){
     
          String str="ShradhaDidi";
