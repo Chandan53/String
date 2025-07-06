@@ -11,8 +11,6 @@ public class string6 {
                 return false;
 
             }
-            
-
         }
         return true;
         
