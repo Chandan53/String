@@ -18,7 +18,7 @@ public class string6 {
         
     }
     public static void main(String args[]){
-        String str="racpar";
+        String str="racecar";
         System.out.println(palindrome(str));
     }
     
